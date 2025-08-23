@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,this is Harsh Yadav</h1>
+<h1 align="center">Hi this is Harsh Yadav</h1>
 <h3 align="center">Computer Science & Technology student with a strong foundation in full-stack development, adept at designing, building, and deploying scalable websites. cybersecurity enthusiast with practical expertise in penetration testing, network exploitation, and conducting real-world red-team engagements to assess and strengthen security postures. Passionate about developing innovative solutions while ensuring robust protection against evolving cyber threats.</h3>
 
 - 🔭 I’m currently working on **Amourella**
