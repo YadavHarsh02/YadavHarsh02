@@ -7,17 +7,16 @@
 
 - 👯 I’m looking to collaborate on [Shadowhunt-Ops](https://shadowhunt-tlhj.onrender.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@hy3763278](https://medium.com/@hy3763278)
+- 📝 My articles on [https://medium.com/@hy3763278](https://medium.com/@hy3763278)
 
 - 💬 Ask me about **MERN Stack, Networking and Web Penetration**
 
-- 📫 How to reach me **@connect.harshyadav@gmail.com**
+- 📫 Reach me at **@connect.harshyadav@gmail.com**
 
 - 📄 Know about my experiences [https://resume-harsh.tiiny.site](https://resume-harsh.tiiny.site)
 
 - ⚡ Fun fact **Change passwords often like...**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
