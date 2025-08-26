@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **@connect.harshyadav@gmail.com**
 
-- 📄 Know about my experiences [https://resume-harsh.tiiny.site](https://resume-harsh.tiiny.site)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Change passwords often like...**
 
